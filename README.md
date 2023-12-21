@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Montassar-T
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on Web developing
 - 📫 How to reach me:
 
